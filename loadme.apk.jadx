@@ -1,0 +1,55 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "loadme.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "loadme.apk"
+    ],
+    [
+      "com.mobisec.dexclassloader",
+      "Source code",
+      "loadme.apk"
+    ],
+    [
+      "com.mobisec.dexclassloader.MainActivity",
+      "com.mobisec.dexclassloader",
+      "Source code",
+      "loadme.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "com.mobisec.dexclassloader.MainActivity",
+      "subPath": "java",
+      "caret": 2509,
+      "view": {
+        "x": 0,
+        "y": 165
+      },
+      "active": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.mobisec.dexclassloader.DoStuff",
+      "subPath": "java",
+      "caret": 1279,
+      "view": {
+        "x": 0,
+        "y": 912
+      },
+      "active": true
+    }
+  ],
+  "cacheDir": "C:\\Users\\nurulhid\\AppData\\Local\\skylot\\jadx\\cache\\projects\\loadme-4910be1f35cd2cd0bda109bc9d5dc99e",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
